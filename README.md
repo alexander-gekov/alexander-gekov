@@ -9,6 +9,7 @@ Working @ Cytosmart Technologies VB.
 <p align="left"> <a href="https://twitter.com/alexandergekov" target="blank"><img src="https://img.shields.io/twitter/follow/alexandergekov?logo=twitter&style=for-the-badge" alt="alexandergekov" /></a> </p>
 
 ### Blogs posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
@@ -28,7 +29,6 @@ Working @ Cytosmart Technologies VB.
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/alexandergekov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="210" alt="alexandergekov" /></a></p><br><br>
 
-
-**⚡ My GitHub Stats**
+<h3 align="left"> ⚡ My GitHub Stats </h3>
 
   <img align="left" alt="alexander-gekov's GitHub Stats" src="https://github-readme-stats-alexander-gekov.vercel.app/api?username=alexander-gekov&show_icons=true&hide_border=true&theme=gotham">
