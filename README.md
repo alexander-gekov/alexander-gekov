@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-<!--
-**alexander-gekov/alexander-gekov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<details>
+  <summary>:zap: GitHub Stats </summary>
+  
+  <img align="left" alt="alexander-gekov's GitHub Stats" src="https://github-readme-stats-alexander-gekov.vercel.app/api?username=alexander-gekov&show_icons=true&hide_border=true">
+  
+  </details>
