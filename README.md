@@ -11,6 +11,10 @@ Working @ Cytosmart Technologies VB.
 ### Blogs posts
 
 <!--START_SECTION:feed-->
+#### [How to make a Star Wars Random Quote App using Vue](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;how-to-make-a-star-wars-random-quote-app-2bga) 
+**
+#### [How I got my first developer job](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;how-i-got-my-first-developer-job-4bk2) 
+**
 <!--END_SECTION:feed-->
 
 <h3 align="left">Connect with me:</h3>
