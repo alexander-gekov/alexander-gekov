@@ -1,6 +1,6 @@
 ### Hey! Nice to see you 👋
 
-I'm Alex, Software Developer from <img src="https://www.flaticon.com/svg/vstatic/svg/197/197502.svg?token=exp=1615056325~hmac=d811eb1cf309d401ef1cec35495b15df" width="13"/> **Sofia, Bulgaria**, currently living in <img src="https://www.flaticon.com/svg/vstatic/svg/197/197441.svg?token=exp=1615056516~hmac=5065061baaa700a71bdd4741575e12cc" width="13"/> **Eindhoven, Netherlands**.
+I'm Alex, Software Developer from <img src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/bulgaria-256.png" width="13"/> **Sofia, Bulgaria**, currently living in <img src="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Netherlands.png" width="13"/> **Eindhoven, Netherlands**.
 <br>
 Working @ Cytosmart Technologies VB.
 
