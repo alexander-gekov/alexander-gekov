@@ -12,9 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-<details>
-  <summary>:zap: GitHub Stats </summary>
+
+  :zap: My GitHub Stats
   
   <img align="left" alt="alexander-gekov's GitHub Stats" src="https://github-readme-stats-alexander-gekov.vercel.app/api?username=alexander-gekov&show_icons=true&hide_border=true&theme=gotham">
-  
-  </details>
+ 
