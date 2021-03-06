@@ -11,8 +11,11 @@ Working @ Cytosmart Technologies VB.
 ### Blogs posts
 
 <!--START_SECTION:feed-->
-#### [How to make a Star Wars Random Quote App using Vue](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;how-to-make-a-star-wars-random-quote-app-2bga)
-#### [How I got my first developer job](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;how-i-got-my-first-developer-job-4bk2)
+
+#### [How to make a Star Wars Random Quote App using Vue](https://dev.to/alexandergekov/how-to-make-a-star-wars-random-quote-app-2bga)
+
+#### [How I got my first developer job](https://dev.to/alexandergekov/how-i-got-my-first-developer-job-4bk2)
+
 <!--END_SECTION:feed-->
 
 <h3 align="left">Connect with me:</h3>
@@ -33,8 +36,9 @@ Working @ Cytosmart Technologies VB.
 
 <h3 align="left"> ⚡ My GitHub Stats </h3>
 
-  <img align="left" alt="alexander-gekov's GitHub Stats" src="https://github-readme-stats-alexander-gekov.vercel.app/api?username=alexander-gekov&show_icons=true&hide_border=true&theme=gotham"><br><br>
-  
-  <h3 align="left">Listening to: 🎧</h3>
+<img align="left" alt="alexander-gekov's GitHub Stats" src="https://github-readme-stats-alexander-gekov.vercel.app/api?username=alexander-gekov&show_icons=true&hide_border=true&theme=gotham"><br><br>
+<br><br><br><br><br><br><br>
+
+<h3 align="left">Listening to: 🎧</h3>
   
   [![Spotify](https://spotify-readme-mocha.vercel.app/api/spotify)](https://open.spotify.com/user/AleksandarGekov)
