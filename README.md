@@ -34,3 +34,5 @@ Working @ Cytosmart Technologies VB.
 <h3 align="left"> ⚡ My GitHub Stats </h3>
 
   <img align="left" alt="alexander-gekov's GitHub Stats" src="https://github-readme-stats-alexander-gekov.vercel.app/api?username=alexander-gekov&show_icons=true&hide_border=true&theme=gotham">
+  
+  [![Spotify](https://spotify-readme-mocha.vercel.app/api/spotify)](https://open.spotify.com/user/AleksandarGekov)
