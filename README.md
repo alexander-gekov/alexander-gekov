@@ -2,7 +2,7 @@
 
 I'm Alex, Software Developer from <img src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/bulgaria-256.png" width="13"/> **Sofia, Bulgaria**, currently living in <img src="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Netherlands.png" width="13"/> **Eindhoven, Netherlands**.
 <br>
-Working @ Cytosmart Technologies VB.
+Working @ Cytosmart Technologies BV.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alexander-gekov&label=Profile%20views&color=0e75b6&style=flat" alt="alexander-gekov" /> </p>
 
