@@ -11,11 +11,12 @@ Working @ Axion BioSystems
 ### Blogs posts
 
 <!--START_SECTION:feed-->
-
-#### [How to make a Star Wars Random Quote App using Vue](https://dev.to/alexandergekov/how-to-make-a-star-wars-random-quote-app-2bga)
-
-#### [How I got my first developer job](https://dev.to/alexandergekov/how-i-got-my-first-developer-job-4bk2)
-
+#### [Introduction to Nuxt 3: Part 2](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;introduction-to-nuxt-3-part-2-movie-app-i02)
+#### [Introduction to Nuxt 3: Part 1](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;introduction-to-nuxt-3-part-1-5cdk)
+#### [Life Simulator dApp using Thirdweb](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;life-simulator-dapp-using-thirdweb-o49)
+#### [Building a startup as a student (Part 1)](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;building-a-startup-as-a-student-part-1-5372)
+#### [How to make a Star Wars Random Quote App using Vue](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;how-to-make-a-star-wars-random-quote-app-2bga)
+#### [How I got my first developer job](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;how-i-got-my-first-developer-job-4bk2)
 <!--END_SECTION:feed-->
 
 <h3 align="left">Connect with me:</h3>
