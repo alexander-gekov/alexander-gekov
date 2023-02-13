@@ -11,6 +11,7 @@ Working @ Axion BioSystems
 ### Blogs posts
 
 <!--START_SECTION:feed-->
+#### [First look at Nuxt DevTools](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;first-look-at-nuxt-devtools-3ie1)
 #### [Introduction to Nuxt 3: Part 2](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;introduction-to-nuxt-3-part-2-movie-app-i02)
 #### [Introduction to Nuxt 3: Part 1](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;introduction-to-nuxt-3-part-1-5cdk)
 #### [Life Simulator dApp using Thirdweb](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;life-simulator-dapp-using-thirdweb-o49)
