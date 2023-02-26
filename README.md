@@ -4,9 +4,10 @@ I'm Alex, Software Developer from <img src="https://cdn1.iconfinder.com/data/ico
 <br>
 Working @ Axion BioSystems
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alexander-gekov&label=Profile%20views&color=0e75b6&style=flat" alt="alexander-gekov" /> </p>
+<p align="left"> <a href="https://twitter.com/alexandergekov" target="blank"><img src="https://img.shields.io/twitter/follow/AlexanderGekov?style=social" alt="alexandergekov" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/alexandergekov" target="blank"><img src="https://img.shields.io/twitter/follow/alexandergekov?logo=twitter&style=for-the-badge" alt="alexandergekov" /></a> </p>
+<p align="left"> <a href="https://www.youtube.com/channel/UCAARceUUB_X6xsgeRBRg16A" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCAARceUUB_X6xsgeRBRg16A?style=social" alt="alexandergekov" /></a> </p>
+
 
 ### Blogs posts
 
