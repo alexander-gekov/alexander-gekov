@@ -12,6 +12,7 @@ Working @ Axion BioSystems
 ### Blogs posts
 
 <!--START_SECTION:feed-->
+#### [Creating better Modals using Vue Teleport](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;creating-better-modals-using-vue-teleport-3cd4)
 #### [Build a blog with Nuxt 3 + Storyblok](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;build-a-blog-with-nuxt-3-storyblok-3a7g)
 #### [First look at Nuxt DevTools](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;first-look-at-nuxt-devtools-3ie1)
 #### [Introduction to Nuxt 3: Part 2](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;introduction-to-nuxt-3-part-2-movie-app-i02)
