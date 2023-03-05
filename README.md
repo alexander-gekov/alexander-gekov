@@ -28,7 +28,7 @@ Working @ Axion BioSystems
 <a href="https://dev.to/alexandergekov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="alexandergekov" height="30" width="40" /></a>
 <a href="https://twitter.com/alexandergekov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="alexandergekov" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/aleksandar-gekov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aleksandar-gekov-b43ba919a" height="30" width="40" /></a>
-<a href="https://instagram.com/alexandergekov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alexandergekov" height="30" width="40" /></a>
+<a href="https://instagram.com/alexander.gekov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="alexandergekov" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCAARceUUB_X6xsgeRBRg16A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="alexander gekov" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/agekov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="agekov" height="30" width="40" /></a>
 </p>
