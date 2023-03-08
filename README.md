@@ -9,7 +9,7 @@ Working @ Axion BioSystems
 <p align="left"> <a href="https://www.youtube.com/channel/UCAARceUUB_X6xsgeRBRg16A" target="blank"><img src="https://img.shields.io/youtube/channel/subscribers/UCAARceUUB_X6xsgeRBRg16A?style=social" alt="alexandergekov" /></a> </p>
 
 
-### Blogs posts
+### Latest blog posts
 
 <!--START_SECTION:feed-->
 #### [Overview: One month of creating Vue content](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;overview-one-month-of-creating-vue-content-17oh)
