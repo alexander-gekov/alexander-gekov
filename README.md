@@ -12,12 +12,12 @@ Working @ Axion BioSystems
 ### Latest blog posts
 
 <!--START_SECTION:feed-->
+#### [Pinia - Crash Course for Beginners](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;pinia-crash-course-for-beginners-3ef7)
 #### [Overview: One month of creating Vue content](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;overview-one-month-of-creating-vue-content-17oh)
 #### [Creating better Modals using Vue Teleport](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;creating-better-modals-using-vue-teleport-3cd4)
 #### [Build a blog with Nuxt 3 + Storyblok](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;build-a-blog-with-nuxt-3-storyblok-3a7g)
 #### [First look at Nuxt DevTools](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;first-look-at-nuxt-devtools-3ie1)
 #### [Introduction to Nuxt 3: Part 2](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;introduction-to-nuxt-3-part-2-movie-app-i02)
-#### [Introduction to Nuxt 3: Part 1](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;introduction-to-nuxt-3-part-1-5cdk)
 <!--END_SECTION:feed-->
 
 <h3 align="left">Connect with me:</h3>
