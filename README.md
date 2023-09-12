@@ -1,8 +1,12 @@
 ### Hey! Nice to see you 👋
 
-I'm Alex, Software Developer from <img src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/bulgaria-256.png" width="13"/> **Sofia, Bulgaria**, currently living in <img src="https://cdn2.iconfinder.com/data/icons/world-flag-icons/256/Flag_of_Netherlands.png" width="13"/> **Eindhoven, Netherlands**.
+I'm Alex, Software Developer from <img src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/bulgaria-256.png" width="13"/> **Sofia, Bulgaria**.
 <br>
-Working @ Axion BioSystems
+<br>
+Working @OfficeRnD
+<br>
+<br>
+Building my own startup at [talsight.com](https://talsight.com)
 
 <p align="left"> <a href="https://twitter.com/alexandergekov" target="blank"><img src="https://img.shields.io/twitter/follow/AlexanderGekov?style=social" alt="alexandergekov" /></a> </p>
 
