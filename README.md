@@ -3,9 +3,6 @@
 I'm Alex, Software Developer from <img src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/bulgaria-256.png" width="13"/> **Sofia, Bulgaria**.
 <br>
 <br>
-Working @OfficeRnD
-<br>
-<br>
 Building my own startup at [talsight.com](https://talsight.com)
 
 <p align="left"> <a href="https://twitter.com/alexandergekov" target="blank"><img src="https://img.shields.io/twitter/follow/AlexanderGekov?style=social" alt="alexandergekov" /></a> </p>
