@@ -13,12 +13,12 @@ Building my own startup at [talsight.com](https://talsight.com)
 ### Latest blog posts
 
 <!--START_SECTION:feed-->
+#### [Why I Wrote AI Coding Guidelines and You Should Too](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;why-i-wrote-ai-coding-guidelines-and-you-should-too-4156)
 #### [Pinia - Crash Course for Beginners](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;pinia-crash-course-for-beginners-3ef7)
 #### [Overview: One month of creating Vue content](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;overview-one-month-of-creating-vue-content-17oh)
 #### [Creating better Modals using Vue Teleport](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;creating-better-modals-using-vue-teleport-3cd4)
 #### [Build a blog with Nuxt 3 + Storyblok](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;build-a-blog-with-nuxt-3-storyblok-3a7g)
 #### [First look at Nuxt DevTools](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;first-look-at-nuxt-devtools-3ie1)
-#### [Introduction to Nuxt 3: Part 2](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;introduction-to-nuxt-3-part-2-movie-app-i02)
 <!--END_SECTION:feed-->
 
 <h3 align="left">Connect with me:</h3>
