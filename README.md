@@ -29,6 +29,3 @@ From <img src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/
 <a href="https://www.youtube.com/channel/UCAARceUUB_X6xsgeRBRg16A" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="alexander gekov" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/agekov" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="agekov" height="30" width="40" /></a>
 </p>
-
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/alexandergekov"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="210" alt="alexandergekov" /></a></p><br><br>
