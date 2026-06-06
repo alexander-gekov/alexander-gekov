@@ -12,12 +12,12 @@ From <img src="https://cdn1.iconfinder.com/data/icons/european-country-flags/83/
 ### Latest blog posts
 
 <!--START_SECTION:feed-->
+#### [What a true AI-native company feels like (3 months at n8n)](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;what-a-true-ai-native-company-feels-like-3-months-at-n8n-4jnf)
 #### [2026 - The year of the Ralph Loop Agent](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;2026-the-year-of-the-ralph-loop-agent-1gkj)
 #### [Building Chrome Extensions with Plasmo](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;building-chrome-extensions-with-plasmo-4g0c)
 #### [Why I Wrote AI Coding Guidelines and You Should Too](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;why-i-wrote-ai-coding-guidelines-and-you-should-too-4156)
 #### [Pinia - Crash Course for Beginners](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;pinia-crash-course-for-beginners-3ef7)
 #### [Overview: One month of creating Vue content](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;overview-one-month-of-creating-vue-content-17oh)
-#### [Creating better Modals using Vue Teleport](https:&#x2F;&#x2F;dev.to&#x2F;alexandergekov&#x2F;creating-better-modals-using-vue-teleport-3cd4)
 <!--END_SECTION:feed-->
 
 <h3 align="left">Connect with me:</h3>
